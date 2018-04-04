@@ -14,16 +14,13 @@ int main(){
 
   TokenClass tc;
   ScannerClass scanner("test.txt");
-  tc = scanner.GetNextToken();
 
-  // do{
-  std::cout << tc << std::endl;
-  // }while();
-  // while(true){
-  //
-  //   if (tc == ENDFILE_TOKEN){
-  //     break;
-  //   }
-  // }
+  while(true){
 
+   tc = scanner.GetNextToken();
+   std::cout << tc << " " << scanner.GetLineNumber() << std::endl;
+    if (tc.GetTokenType() == ENDFILE_TOKEN){
+      break;
+    }
+  }
 }

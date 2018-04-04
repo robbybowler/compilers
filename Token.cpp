@@ -10,7 +10,7 @@ TokenClass::TokenClass(){
 
 
 TokenClass::TokenClass(TokenType type, const string & lexeme){
-  mType=type;
+  mType = type;
   mLexeme = lexeme;
 }
 

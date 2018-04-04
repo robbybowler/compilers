@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2B777B302049B59600A9EB05 /* Token */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = Token; sourceTree = "<group>"; };
+		2B777B312049B59600A9EB05 /* Symbol.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Symbol.cpp; sourceTree = "<group>"; };
+		2B777B322049B59600A9EB05 /* Debug.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Debug.h; sourceTree = "<group>"; };
+		2B777B332049B59600A9EB05 /* ~$mpiler2017.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "~$mpiler2017.doc"; sourceTree = "<group>"; };
+		2B777B342049B59600A9EB05 /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		2B777B352049B59600A9EB05 /* StateMachine.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = StateMachine.cpp; sourceTree = "<group>"; };
+		2B777B362049B59600A9EB05 /* compiler2017.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = compiler2017.doc; sourceTree = "<group>"; };
+		2B777B372049B59600A9EB05 /* test */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = test; sourceTree = "<group>"; };
+		2B777B382049B59600A9EB05 /* Symbol.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = Symbol.o; sourceTree = "<group>"; };
+		2B777B392049B59600A9EB05 /* Symbol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Symbol.h; sourceTree = "<group>"; };
+		2B777B3A2049B59600A9EB05 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		2B777B3B2049B59600A9EB05 /* StateMachine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StateMachine.h; sourceTree = "<group>"; };
+		2B777B3C2049B59600A9EB05 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
+		2B777B3D2049B59600A9EB05 /* Node.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Node.cpp; sourceTree = "<group>"; };
+		2B777B3E2049B59600A9EB05 /* test.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = test.o; sourceTree = "<group>"; };
+		2B777B3F2049B59600A9EB05 /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
+		2B777B402049B59600A9EB05 /* Scanner.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Scanner.cpp; sourceTree = "<group>"; };
+		2B777B412049B59600A9EB05 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2B777B422049B59600A9EB05 /* Scanner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Scanner.h; sourceTree = "<group>"; };
+		2B777B432049B59600A9EB05 /* cs4550.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cs4550.playground; sourceTree = "<group>"; };
+		2B777B442049B59600A9EB05 /* test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
+		2B777B452049B59600A9EB05 /* Token.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Token.h; sourceTree = "<group>"; };
+		2B777B462049B59600A9EB05 /* .git */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .git; sourceTree = "<group>"; };
+		2B777B472049B59600A9EB05 /* main */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = main; sourceTree = "<group>"; };
+		2B777B482049B59600A9EB05 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2B777B492049B59600A9EB05 /* Token.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Token.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2B777B2A2049B59600A9EB05 = {
+			isa = PBXGroup;
+			children = (
+				2B777B302049B59600A9EB05 /* Token */,
+				2B777B312049B59600A9EB05 /* Symbol.cpp */,
+				2B777B322049B59600A9EB05 /* Debug.h */,
+				2B777B332049B59600A9EB05 /* ~$mpiler2017.doc */,
+				2B777B342049B59600A9EB05 /* .DS_Store */,
+				2B777B352049B59600A9EB05 /* StateMachine.cpp */,
+				2B777B362049B59600A9EB05 /* compiler2017.doc */,
+				2B777B372049B59600A9EB05 /* test */,
+				2B777B382049B59600A9EB05 /* Symbol.o */,
+				2B777B392049B59600A9EB05 /* Symbol.h */,
+				2B777B3A2049B59600A9EB05 /* Makefile */,
+				2B777B3B2049B59600A9EB05 /* StateMachine.h */,
+				2B777B3C2049B59600A9EB05 /* test.cpp */,
+				2B777B3D2049B59600A9EB05 /* Node.cpp */,
+				2B777B3E2049B59600A9EB05 /* test.o */,
+				2B777B3F2049B59600A9EB05 /* Node.h */,
+				2B777B402049B59600A9EB05 /* Scanner.cpp */,
+				2B777B412049B59600A9EB05 /* README.md */,
+				2B777B422049B59600A9EB05 /* Scanner.h */,
+				2B777B432049B59600A9EB05 /* cs4550.playground */,
+				2B777B442049B59600A9EB05 /* test.txt */,
+				2B777B452049B59600A9EB05 /* Token.h */,
+				2B777B462049B59600A9EB05 /* .git */,
+				2B777B472049B59600A9EB05 /* main */,
+				2B777B482049B59600A9EB05 /* main.cpp */,
+				2B777B492049B59600A9EB05 /* Token.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		2B777B2F2049B59600A9EB05 /* cs4550 */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 2B777B4A2049B59600A9EB05 /* Build configuration list for PBXLegacyTarget "cs4550" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/robbybowler/Desktop/cs/cs4550;
+			dependencies = (
+			);
+			name = cs4550;
+			passBuildSettingsInEnvironment = 1;
+			productName = cs4550;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		2B777B2B2049B59600A9EB05 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = 2B777B2E2049B59600A9EB05 /* Build configuration list for PBXProject "cs4550" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2B777B2A2049B59600A9EB05;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2B777B2F2049B59600A9EB05 /* cs4550 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2B777B2C2049B59600A9EB05 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		2B777B2D2049B59600A9EB05 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		2B777B4B2049B59600A9EB05 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = cs4550;
+			};
+			name = Debug;
+		};
+		2B777B4C2049B59600A9EB05 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = cs4550;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2B777B2E2049B59600A9EB05 /* Build configuration list for PBXProject "cs4550" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B777B2C2049B59600A9EB05 /* Debug */,
+				2B777B2D2049B59600A9EB05 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2B777B4A2049B59600A9EB05 /* Build configuration list for PBXLegacyTarget "cs4550" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2B777B4B2049B59600A9EB05 /* Debug */,
+				2B777B4C2049B59600A9EB05 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2B777B2B2049B59600A9EB05 /* Project object */;
+}
